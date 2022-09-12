@@ -8,7 +8,7 @@ A brief description of what this project does and who it's for
 Right now I'm uploading Python Basics Cheat sheet, I will upload the numpy,
 pandas, matplotlib, seaborn in the future.
 
- - [JDBC Connection Configuration]([https://github.com/argha-sarkar/Cheatsheet/tree/main/Python/Python%20Basics](https://github.com/argha-sarkar/JMeter-Project/tree/main/JDBC%20Connection%20Configuration))
+ - [JDBC Connection Configuration](https://github.com/argha-sarkar/JMeter-Project/tree/main/JDBC%20Connection%20Configuration)
  
 ## Authors
 
@@ -18,7 +18,8 @@ pandas, matplotlib, seaborn in the future.
 ## Installation
 
 - Install JAVA 8.0 above on windows
-- after java installation and set u p complete then download and extract Apache JMeter
+- After java installation and set u p complete then download and extract Apache JMeter
+- Also install MySQL
 
     
 ## Environment Variables
@@ -27,10 +28,23 @@ To run all this project, you will need to the following environment
 
 `Windows`
   
-## Roadmap
+## Description
 
-- First Python basics
-
+After installation and enviroment setup done, first create a dtabase on MySql databases. The try to create a SQL table on the databases. Example -
+- CREATE DATABASE DB;
+- USE DB;
+- CREATE TABLE table_name (
+    column1 datatype,
+    column2 datatype,
+    column3 datatype,
+   ....
+);
+- INSERT INTO tutorials_tbl 
+    (tutorial_title, tutorial_author, submission_date)
+    VALUES
+    ("Learn PHP", "John Poul", NOW());
+   
+ 
 ## Screenshots
 
 ![App Screenshot](https://raw.githubusercontent.com/argha-sarkar/Cheatsheet/main/image/Screenshot%20from%202021-08-20%2019-36-10.png)
