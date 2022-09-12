@@ -68,7 +68,8 @@ After database and table create compoleted, then open Apache Jmeter.
 - Then create JDBC Request [Write SQL Query]
 - Create Listener [View Results Tree]
 
-## [Results]([https://raw.githubusercontent.com/argha-sarkar/Cheatsheet/main/image/Screenshot%20from%202021-08-20%2019-36-10.png](https://github.com/argha-sarkar/JMeter-Project/blob/main/JDBC%20Connection%20Configuration/img/Result.png))
+## Results
+[Results]([https://raw.githubusercontent.com/argha-sarkar/Cheatsheet/main/image/Screenshot%20from%202021-08-20%2019-36-10.png](https://github.com/argha-sarkar/JMeter-Project/blob/main/JDBC%20Connection%20Configuration/img/Result.png))
   
 ## License
 
