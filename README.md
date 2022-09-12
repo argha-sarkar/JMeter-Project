@@ -69,7 +69,7 @@ After database and table create compoleted, then open Apache Jmeter.
 - Create Listener [View Results Tree]
 
 ## Results
-[Results](https://raw.githubusercontent.com/argha-sarkar/JMeter-Project/main/JDBC%20Connection%20Configuration/img/Result.png)
+![Results](https://raw.githubusercontent.com/argha-sarkar/JMeter-Project/main/JDBC%20Connection%20Configuration/img/Result.png)
   
 ## License
 
