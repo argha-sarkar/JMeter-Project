@@ -32,17 +32,17 @@ To run all this project, you will need to the following environment
 
 After installation and enviroment setup done, first create a dtabase on MySql databases. The try to create a SQL table on the databases. Example -
 
-Create databases on MySQl-
+- Create databases on MySQl-
 ```bash
 CREATE DATABASE DB;
 ```
 
-Use Databases on MySQl-
+- Use Databases on MySQl-
 ```bash
 USE DB;
 ```
 
-Create table-
+- Create table-
 
 ```bash
 CREATE TABLE table_name (
@@ -52,7 +52,7 @@ CREATE TABLE table_name (
 );
 ```
 
-Insert into table - 
+- Insert into table - 
 ```bash
 INSERT INTO tutorials_tbl 
     (title, author, submission_date)
@@ -60,9 +60,15 @@ INSERT INTO tutorials_tbl
     ("Learn PHP", "John Poul", NOW());
 ```
 
-## Screenshots
+After database and table create compoleted, then open Apache Jmeter.
+- Add directory class path or jar file on Apache JMeter
+- Create JMeter Test Plan
+- Create a Thread group in Test Plan
+- Now adding to JDBC Requests inside the Thread Group
+- Then create JDBC Request [Write SQL Query]
+- Create Listener [View Results Tree]
 
-![App Screenshot](https://raw.githubusercontent.com/argha-sarkar/Cheatsheet/main/image/Screenshot%20from%202021-08-20%2019-36-10.png)
+## [Results]([https://raw.githubusercontent.com/argha-sarkar/Cheatsheet/main/image/Screenshot%20from%202021-08-20%2019-36-10.png](https://github.com/argha-sarkar/JMeter-Project/blob/main/JDBC%20Connection%20Configuration/img/Result.png))
   
 ## License
 
