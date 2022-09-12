@@ -1,8 +1,5 @@
-
-![Logo](https://raw.githubusercontent.com/argha-sarkar/Cheatsheet/main/image/HD%20wallpaper_%20Programming%20is%20an%20Art%20text%2C%20code%2C%20python%2C%20computer%2C%20Python%20(programming).jpeg)
-
-    
-# Python Cheat Sheet
+  
+# JDBC Connection Configuration
 
 A brief description of what this project does and who it's for
 
