@@ -31,22 +31,35 @@ To run all this project, you will need to the following environment
 ## Description
 
 After installation and enviroment setup done, first create a dtabase on MySql databases. The try to create a SQL table on the databases. Example -
+
+Create databases on MySQl-
 ```bash
 CREATE DATABASE DB;
 ```
-- USE DB;
-- CREATE TABLE table_name (
-    column1 datatype,
-    column2 datatype,
-    column3 datatype,
-   ....
+
+Use Databases on MySQl-
+```bash
+USE DB;
+```
+
+Create table-
+
+```bash
+CREATE TABLE table_name (
+    tutorial datatype,
+    author datatype,
+    submission_date datatype,
 );
-- INSERT INTO tutorials_tbl 
-    (tutorial_title, tutorial_author, submission_date)
+```
+
+Insert into table - 
+```bash
+INSERT INTO tutorials_tbl 
+    (title, author, submission_date)
     VALUES
     ("Learn PHP", "John Poul", NOW());
-   
- 
+```
+
 ## Screenshots
 
 ![App Screenshot](https://raw.githubusercontent.com/argha-sarkar/Cheatsheet/main/image/Screenshot%20from%202021-08-20%2019-36-10.png)
