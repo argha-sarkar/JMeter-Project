@@ -8,14 +8,8 @@ A brief description of what this project does and who it's for
 Right now I'm uploading Python Basics Cheat sheet, I will upload the numpy,
 pandas, matplotlib, seaborn in the future.
 
- - [Python Basics](https://github.com/argha-sarkar/Cheatsheet/tree/main/Python/Python%20Basics)
+ - [JDBC Connection Configuration]([https://github.com/argha-sarkar/Cheatsheet/tree/main/Python/Python%20Basics](https://github.com/argha-sarkar/JMeter-Project/tree/main/JDBC%20Connection%20Configuration))
  
-  
-## Screenshots
-
-![App Screenshot](https://raw.githubusercontent.com/argha-sarkar/Cheatsheet/main/image/Screenshot%20from%202021-08-20%2019-36-10.png)
-
-  
 ## Authors
 
 - [@argha-sarkar](https://github.com/argha-sarkar)
@@ -23,43 +17,23 @@ pandas, matplotlib, seaborn in the future.
   
 ## Installation
 
-Install Python3 on Ubuntu
+- Install JAVA 8.0 above on windows
+- after java installation and set u p complete then download and extract Apache JMeter
 
-```bash
-  sudo apt install python3.8
-```
-Check-out Python3 Version 
-
-```bash
-  python3 --version
-```
-After install Python3 then Install pip
-
-```bash
-  pip install pip
-```
-Install Jupyter Notebook
-
-```bash
-  pip install jupyter
-```
     
 ## Environment Variables
 
 To run all this project, you will need to the following environment 
 
 `Windows`
-
-`Linux`
-
-`MacOSX`
-
   
 ## Roadmap
 
 - First Python basics
 
+## Screenshots
 
+![App Screenshot](https://raw.githubusercontent.com/argha-sarkar/Cheatsheet/main/image/Screenshot%20from%202021-08-20%2019-36-10.png)
   
 ## License
 
