@@ -31,7 +31,9 @@ To run all this project, you will need to the following environment
 ## Description
 
 After installation and enviroment setup done, first create a dtabase on MySql databases. The try to create a SQL table on the databases. Example -
-- CREATE DATABASE DB;
+```bash
+CREATE DATABASE DB;
+```
 - USE DB;
 - CREATE TABLE table_name (
     column1 datatype,
